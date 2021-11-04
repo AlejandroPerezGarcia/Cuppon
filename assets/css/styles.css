@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.container{
+    max-width:1000px;
+    display: block;
+    margin-left:auto ;
+    margin-right:auto;
+}
+
+#letra{
+    font-size:smaller;
+    font-style: #707070;
+}
